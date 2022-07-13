@@ -8,7 +8,7 @@ function Search({ setFilter }) {
 
   return (
     <div
-      className={`d-flex flex-row justify-content-center align-item-center my-30 ${styles.searchBar}`}
+      className={`d-flex flex-row justify-content-center align-items-center my-30 ${styles.searchBar}`}
     >
       <i className="fa-solid fa-magnifying-glass mr-15"></i>
       <input
